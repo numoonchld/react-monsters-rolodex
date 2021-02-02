@@ -1,3 +1,3 @@
-# react-udemy-course-workbench
+# react-monsters-rolodex
 
-course workbench for react project - https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+react project for course - https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
