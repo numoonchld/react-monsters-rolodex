@@ -5,7 +5,7 @@ import Card from '../card/Card'
 function CardList(props) {
     return (
         <div className="card-list">
-            {props.monsters.map(user => <Card key={user.id} name={user.name} /> )}
+            {props.monsters.map(user => <Card key={user.id} user={user} /> )}
         </div>
     )
 }
